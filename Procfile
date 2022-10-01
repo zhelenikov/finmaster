@@ -1,1 +1,1 @@
-web: java -Dswarm.http.port=8080 -jar target/finmaster-0.0.1-SNAPSHOT.war
+web: java -Dswarm.http.port=8081 -jar target/finmaster-0.0.1-SNAPSHOT.war
