@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="finmaster-remote:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>finmaster-remote</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="finmaster-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="finmaster-remote:war exploded" />
+    </root>
+  </artifact>
+</component>
